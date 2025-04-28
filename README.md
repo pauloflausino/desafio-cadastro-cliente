@@ -17,8 +17,6 @@ git clone https://github.com/pauloflausino/desafio-cadastro-cliente.git
 cd desafio-cadastro-cliente
 ```
 
-> 🔔 Substitua `seu-usuario` pela sua conta real do GitHub.
-
 ---
 
 ### 2. Copie o arquivo `.env.example` para `.env` (opcional)
@@ -129,19 +127,3 @@ desafio-cadastro-cliente/
 - Docker / Docker Compose
 - Postman (para testes)
 
----
-
-## 📩 Contato
-
-Para dúvidas ou sugestões:
-
-- [Seu nome]
-- [Seu e-mail ou GitHub]
-
----
-
-# 🎯 **Pronto!** Agora você tem um README completo para entregar o desafio.
-
----
-
-Se quiser, também posso criar um `Postman Collection` (.json) para você importar no Postman e deixar seu projeto ainda mais redondo. **Quer?** 🚀🎯
