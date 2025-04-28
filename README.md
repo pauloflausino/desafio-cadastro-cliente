@@ -1,7 +1,4 @@
-Excelente pedido!  
-Aqui está um **modelo de `README.md`** bem organizado, do jeito que um avaliador espera encontrar:
 
----
 
 # 📚 desafio-cadastro-cliente
 
