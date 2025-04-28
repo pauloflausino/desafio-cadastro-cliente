@@ -125,5 +125,5 @@ desafio-cadastro-cliente/
 - PHP 8.1
 - MySQL 8.0
 - Docker / Docker Compose
-- Postman (para testes)
+- Postman 
 
